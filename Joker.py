@@ -210,7 +210,7 @@ def xxr():
     HamiiID = []
     print("")
     for bilal in range(passx):
-        pww = input(f"[Bangladesh"bangla"freefire"freefire12"nusrat12"] Enter Password {bilal+1} : ")
+        pww = input(f"[*] Enter Password {bilal+1} : ")
         HamiiID.append(pww)
     with ThreadPool(max_workers=50) as manshera:
         clear()
