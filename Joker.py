@@ -221,7 +221,7 @@ def xxr():
         jalan(f' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[38;5;195m Use Flight Mode For Speed Up')
         jalan(' \033[1;93m××××××××××××××××\033[1;93m×××××××××××××××\033[1;93m×××××××××××××××××')
         for love in user:
-            pwx = [love+mahi+ex+new+guru,new+guru,ex+guru,mahi+ex+new,'bangla','Bangladesh','freefire','sadiya','bangladesh','sabbir','afsana90','nusrat','ma baba','sabbir12','nusrat1122','sadiya123','pabg123','908070','@nusrat1','arif1020','sadiya1122]
+            pwx = [love]
             uid = code+love
             for Eman in HamiiID:
                 pwx.append(Eman)
