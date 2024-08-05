@@ -1,4 +1,4 @@
-#Compiled By Kali Linux
+#Compiled By saed
 #Facebook Group :- TBH2.0
 #https://github.com/Kali-Linux20
 import marshal
